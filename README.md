@@ -1,2 +1,1 @@
-.css 
-.padding 
+aryuansharma.github.io/Tester/
